@@ -25,7 +25,7 @@ It reflects my passion for **cybersecurity, data processing, and software engine
 ### Option 1 — Run from Source
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/YOURUSERNAME/network-whisperer.git
+git clone https://github.com/fahimalshihab/network-whisperer.git
 cd network-whisperer
 pip install -r requirements.txt
 
