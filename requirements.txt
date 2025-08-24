@@ -1,0 +1,7 @@
+PyQt5
+PyQtWebEngine
+scapy
+pyqtgraph
+folium
+requests
+reportlab
