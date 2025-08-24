@@ -29,6 +29,6 @@ git clone https://github.com/YOURUSERNAME/network-whisperer.git
 cd network-whisperer
 pip install -r requirements.txt
 
-wget -O network-whisperer https://github.com/YOURUSERNAME/network-whisperer/releases/download/v1.0.0/network-whisperer-v1.0.0-linux-x86_64
+wget -O network-whisperer https://github.com/fahimalshihab/network-whisperer/releases/download/v1.0.0/network-whisperer-v1.0.0-linux-x86_64
 chmod +x network-whisperer
 ./network-whisperer
