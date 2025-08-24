@@ -1,4 +1,8 @@
 # 🛰️ Network Whisperer V1.0
+<img width="1914" height="1045" alt="1" src="https://github.com/user-attachments/assets/45295a3e-f932-4a97-868a-be3bb66877a2" />
+<img width="1920" height="1043" alt="2" src="https://github.com/user-attachments/assets/10accabb-781d-4ee8-8f1f-42d01c25b394" />
+
+
 
 I am pleased to present my latest personal project, **Network Whisperer V1.0**, a desktop PCAP analysis tool developed in Python.  
 
