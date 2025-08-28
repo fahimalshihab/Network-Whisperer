@@ -1,6 +1,7 @@
 # 🛰️ Network Whisperer V1.0
 <img width="1914" height="1045" alt="1" src="https://github.com/user-attachments/assets/45295a3e-f932-4a97-868a-be3bb66877a2" />
 <img width="1920" height="1043" alt="2" src="https://github.com/user-attachments/assets/10accabb-781d-4ee8-8f1f-42d01c25b394" />
+<img width="1397" height="938" alt="Screenshot_2025-08-27_15-02-08" src="https://github.com/user-attachments/assets/74e0eabc-7c00-441b-9954-3a024ce19022" />
 
 
 
@@ -16,7 +17,9 @@ It reflects my passion for **cybersecurity, data processing, and software engine
 - 📊 **Integrated data visualization charts** (traffic, protocols, timelines)  
 - 🌍 **IP geolocation mapping** with embedded interactive maps  
 - 📝 **PDF report exporting** for offline analysis  
-- 🎨 **Modern desktop UI** using PyQt5  
+- 🎨 **Modern desktop UI** using PyQt5
+-  **AI-assisted packet analysis**
+
 
 ---
 
